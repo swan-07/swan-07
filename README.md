@@ -1,4 +1,4 @@
-## Hi there 👋
+hi there! into all things cs, and a little bit of hardware while we're at it 😄 
 
 <!--
 **swan-07/swan-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
